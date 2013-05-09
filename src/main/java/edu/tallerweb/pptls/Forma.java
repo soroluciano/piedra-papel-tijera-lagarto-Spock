@@ -11,6 +11,9 @@ public enum Forma {
 
 	private Forma(final Integer valor) {
 		this.valor = valor;
+		
+		
+		
 	}
 
 	public Integer getValor() {
